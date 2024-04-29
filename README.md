@@ -20,7 +20,7 @@ Directions assume directory 403-bypass-tester is in your home directory (/home/u
 `sh 403-bypass-finder.sh https://example.com path/to/dir/or/file`  
 > **Note:** Mind the slashes, no starting or ending slashes on domain or or path  
   
-**When script is finished, results will be in 'results-\<datetime>.html'**  
+**When script is finished, results will be in 'results/\<domain>-\<datetime>.html'**  
 **you can view it in a web browser**  
   
 **Props:**  
