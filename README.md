@@ -2,15 +2,16 @@
 ## Installation:  
 Directions assume file is in your home directory (/home/username or ~)  
 **If** ffuf is not installed:  
-    Debian based: `sudo apt install -y ffuf`  
-    RedHat based: `yum install ffuf`  
-    Arch based: `pacman -S ffuf`  
-**If** not extracted: `tar xfz 403-bypass-tester.tar.gz -C ~`  
-`chmod +x ~/403-bypass-tester/403-bypass-tester.sh`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debian based: `sudo apt install -y ffuf`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RedHat based: `yum install ffuf`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch based: `pacman -S ffuf`  
+**If** not extracted:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`tar xfz 403-bypass-tester.tar.gz -C ~`  1 
+`chmod +x ~/403-bypass-tester/403-bypass-tester.sh`  
   
 ## Usage:  
 `cd ~/403-bypass-tester`  
-`sh 403-bypass-tester.sh https://domain.com path/to/dir/or/file`  
+`sh 403-bypass-tester.sh https://example.com path/to/dir/or/file`  
 > **Note:** Mind the slashes, no starting or ending slashes on domain or or path  
   
 When script is finished, results will be in 'results-\<datetime>.html' you can view it in a web browser  
