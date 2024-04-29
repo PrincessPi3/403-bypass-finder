@@ -23,7 +23,7 @@ Directions assume directory 403-bypass-tester is in your home directory (/home/u
 **When script is finished, results will be in 'results-\<datetime>.html' you can view it in a web browser**  
   
 Props:  
-Entirely uses [ffuf](https://github.com/ffuf/ffuf)  
+Entirely uses [ffuf](https://github.com/ffuf/ffuf) 
 403 bypass methods formatted from [SecLists](https://github.com/danielmiessler/SecLists)  
-Distributed under the [WTFPL Version 2](//www.wtfpl.net/) [![WTFPL](assets/wtfpl-badge.png)](//www.wtfpl.net/)  
-See [COPYING](COPYING.txt) for details  
+  
+Distributed under the [WTFPL Version 2](//www.wtfpl.net/) [![WTFPL](assets/wtfpl-badge.png)](//www.wtfpl.net/) see [COPYING](COPYING.txt) for details
