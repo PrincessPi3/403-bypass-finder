@@ -13,7 +13,7 @@ Linux based OS
   
 ## Installation: 
 Directions assume directory 403-bypass-tester is in your home directory (/home/username/403-bypass-tester or ~/403-bypass-tester)  
-`chmod +x ~/403-bypass-tester/403-bypass-finder.sh`  
+`chmod +x ~/403-bypass-finder/403-bypass-finder.sh`  
   
 ## Usage:  
 `cd ~/403-bypass-tester`  
