@@ -1,12 +1,15 @@
 # 403 bypass finder  
 ## Installation:  
-Directions assume file is in your home directory (/home/username or ~)  
+
 **If** ffuf is not installed:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debian based: `sudo apt install -y ffuf`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RedHat based: `yum install ffuf`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch based: `pacman -S ffuf`  
 **If** not extracted:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`tar xfz 403-bypass-tester.tar.gz -C ~`  1 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`tar xfz 403-bypass-tester.tar.gz -C ~`  
+  
+## Installation: 
+Directions assume file is in your home directory (/home/username or ~)  
 `chmod +x ~/403-bypass-tester/403-bypass-tester.sh`  
   
 ## Usage:  
