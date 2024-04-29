@@ -28,5 +28,5 @@ Entirely uses [ffuf](https://github.com/ffuf/ffuf)
 403 bypass methods formatted from [SecLists](https://github.com/danielmiessler/SecLists)  
   
 **license:**  
-Distributed under the [WTFPL Version 2](//www.wtfpl.net/) [![WTFPL](assets/wtfpl-badge.png)](//www.wtfpl.net/)
-See [assets/COPYING.txt](assets/COPYING.txt) for details  
+Distributed under the [WTFPL Version 2](//www.wtfpl.net/) [![WTFPL](assets/wtfpl-badge.png)](//www.wtfpl.net/)  
+See [assets/COPYING.txt](assets/COPYING.txt) for text  
