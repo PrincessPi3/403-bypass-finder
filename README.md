@@ -3,9 +3,9 @@
 Directions assume file is in your home directory (/home/username or ~)  
 **If** not extracted: `tar xfz 403-bypass-tester.tar.gz -C ~`  
 **If** ffuf is not installed:  
-* Debian based: `sudo apt install -y ffuf`  
-* RedHat based: `yum install ffuf`  
-* Arch based: `pacman -S ffuf`  
+    Debian based: `sudo apt install -y ffuf`  
+    RedHat based: `yum install ffuf`  
+    Arch based: `pacman -S ffuf`  
 `chmod +x ~/403-bypass-tester/403-bypass-tester.sh`  
 Usage:  
 `cd ~/403-bypass-tester`
