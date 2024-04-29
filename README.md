@@ -16,8 +16,8 @@ Directions assume directory 403-bypass-tester is in your home directory (/home/u
 `chmod +x ~/403-bypass-finder/403-bypass-finder.sh`  
   
 ## Usage:  
-`cd ~/403-bypass-tester`  
-`sh 403-bypass-tester.sh https://example.com path/to/dir/or/file`  
+`cd ~/403-bypass-finder`  
+`sh 403-bypass-finder.sh https://example.com path/to/dir/or/file`  
 > **Note:** Mind the slashes, no starting or ending slashes on domain or or path  
   
 **When script is finished, results will be in 'results-\<datetime>.html' you can view it in a web browser**  
