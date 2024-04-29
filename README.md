@@ -1,11 +1,11 @@
 # 403 bypass finder  
 ## Installation:  
 Directions assume file is in your home directory (/home/username or ~)  
-**If** not extracted: `tar xfz 403-bypass-tester.tar.gz -C ~`  
 **If** ffuf is not installed:  
     Debian based: `sudo apt install -y ffuf`  
     RedHat based: `yum install ffuf`  
     Arch based: `pacman -S ffuf`  
+**If** not extracted: `tar xfz 403-bypass-tester.tar.gz -C ~`  
 `chmod +x ~/403-bypass-tester/403-bypass-tester.sh`
   
 ## Usage:  
@@ -19,6 +19,6 @@ Props:
 Entirely uses [ffuf](https://github.com/ffuf/ffuf)  
 403 bypass methods formatted from [SecLists](https://github.com/danielmiessler/SecLists)  
   
-Distributed under the [WTFPL Version 2](http://www.wtfpl.net/) [![WTFPL](assets/wtfpl-badge.png)](http://www.wtfpl.net/)  
+Distributed under the [WTFPL Version 2](//www.wtfpl.net/) [![WTFPL](assets/wtfpl-badge.png)](//www.wtfpl.net/)  
 See [COPYING](COPYING.txt) for details  
 
