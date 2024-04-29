@@ -9,7 +9,7 @@ Directions assume file is in your home directory (/home/username or ~)
 `chmod +x ~/403-bypass-tester/403-bypass-tester.sh`
   
 ## Usage:  
-`cd ~/403-bypass-tester`
+`cd ~/403-bypass-tester`  
 `sh 403-bypass-tester.sh https://domain.com path/to/dir/or/file`  
 > **Note:** Mind the slashes, no starting or ending slashes on domain or or path  
   
